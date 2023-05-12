@@ -1,0 +1,125 @@
+@import 'https://fonts.googleapis.com/css?family=Athiti';
+
+body
+{
+	background-color: #ffffff;
+}
+
+a{
+	color: #96adf5;
+	font-family: Athiti;
+	font-size: 1.5em;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #252fff;
+	font-style: italic;
+}
+
+#h1{
+	color: #252fff;
+	font-family: Athiti;
+	font-size: 2.5em;
+}
+
+#h1_2{
+	color: #252fff;
+	font-family: Athiti;
+	font-size: 1.75em;
+	font-weight: bold;
+}
+
+#b1{
+	color: #252fff;
+	font-family: Athiti;
+	font-size: 1.25em;
+	font-weight: bold;
+}
+
+
+#p1{
+	color: #000000;
+	font-family: Athiti;
+	font-size: 1.3em;
+}
+
+
+#p3{
+	color: #1E1E1E;
+	font-family: Athiti;
+	font-size: 1.5em;
+	font-weight:bold;
+}
+
+#p1_2{
+	color: #000000;
+	font-family: Athiti;
+	font-size: 1.3em;
+}
+
+#p2{
+	color: red;
+	font-family: Athiti;
+	font-size: 1.5em;
+}
+
+
+#t1{
+	color: #000000;
+	font-family: Athiti;
+	font-size: 1.2em;
+}
+
+#t2{
+	color: #000000;
+	font-family: Athiti;
+	font-size: 1.5em;
+}
+
+#t3{
+	color: #000000;
+	font-family: Athiti;
+	font-size: 1em;
+}
+
+#back{
+	color: #252fff;
+	font-family: Athiti;
+	font-size: 1.3em;
+	font-weight: bold;
+}
+
+#w_normal{
+	color: #ffffff;
+	font-family: Athiti;
+	font-size: 1.3em;
+	font-weight: bold;
+}
+
+#w_normal2{
+	color: #ffffff;
+	font-family: Athiti;
+	font-size: 1.3em;
+}
+
+td{
+	font-family: Athiti;
+	text-align: center;
+}
+
+#th{
+	color:  #252fff;
+	font-family: Athiti;
+	font-size: 1.75em;
+	text-align: center;
+}
+
+.navbar {
+	overflow: hidden;
+	background-color: #333;
+	position: fixed; /* Set the navbar to fixed position */
+	top: 0; /* Position the navbar at the top of the page */
+	width: 100%; /* Full width */
+  }
+
